@@ -68,7 +68,7 @@ client.login(TOKEN).then(app => {
 
 const modal = new ModalBuilder()
 .setCustomId('form')
-.setTitle('Lourec Çekiliş Altyapısı')
+.setTitle('Asil Code Çekiliş Altyapısı')
   const a1 = new TextInputBuilder()
   .setCustomId('prize')
   .setLabel('Ödül')
